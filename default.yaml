@@ -1,0 +1,20 @@
+model_configs:
+  model_name: FACENETModel
+  mode: embeddings # images OR embeddings
+  FFN: True
+  batch_size: 20
+  learning_rate: 0.0001
+  epochs: 20
+
+data_loader_configs:
+  data_loader_name: "Data2MTL"
+  mode: "embeddings" # images OR embeddings
+  model_emb: "facenet"
+  val_batch_size: 2000
+  test_batch_size: 2000
+
+wandb_params:
+  wandb_key: "83684fd66499741a9e13adfcdfea1aa97f871290"
+  project: "msc-mafalda-5nd"
+  entity: "leonardo-m-ferreira-university-of-porto" # Important to be the team name; otherwise it will give 403 error
+
