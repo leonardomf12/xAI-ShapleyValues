@@ -1,3 +1,12 @@
+# Files
+annotations/maad_balanceface_labels
+.idea/
+#mafalda_repo/*.csv
+mafalda_repo/test_gender_sex.csv
+mafalda_repo/train.csv
+mafalda_repo/train_gender_sex.csv
+mafalda_repo/val_gender_sex.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
