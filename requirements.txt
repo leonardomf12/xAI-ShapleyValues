@@ -1,0 +1,24 @@
+git+https://github.com/openai/CLIP.git
+git+https://github.com/nizhib/pytorch-insightface
+facenet-pytorch
+ipython
+lightning
+matplotlib
+numpy
+pandas
+paramiko
+plotly
+PyQt6
+python-dotenv
+pyyaml
+rich
+scikit-image
+scikit-learn
+scp
+shap
+tensorflow # Only to compute shap values - is useless for everything which is a shame
+torch
+torchinfo
+torchsummary
+torchvision
+wandb

@@ -1,3 +1,8 @@
+# Files
+annotations/maad_balanceface_labels
+.idea/
+mafalda_repo/*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
