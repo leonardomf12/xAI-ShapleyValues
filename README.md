@@ -1,6 +1,7 @@
 <h1> SHAPing Latent Spaces in Facial Attribute Classification Models </h1>
 
 Presentation delivered at the BIOSIG 2025 Conference:
+
 https://github.com/user-attachments/assets/9d0dd3c4-35a3-46ce-8a8f-b15f093a2ed5
 
 ---
