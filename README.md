@@ -1,5 +1,5 @@
 <h1> SHAPing Latent Spaces in Facial Attribute Classification Models </h1>
-[![Watch the video](https://github.com/leonardomf12/xAI-ShapleyValues/main/thumbnail.png)](https://youtu.be/sU3FBIHNIdY)
+[![Watch the video](https://raw.githubusercontent.com/leonardomf12/xAI-ShapleyValues/main/thumbnail.png)](https://youtu.be/sU3FBIHNIdY)
 
 ---
 
